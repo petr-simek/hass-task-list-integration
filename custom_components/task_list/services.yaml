@@ -1,0 +1,66 @@
+service_add_task:
+  description: d
+  fields:
+    task_list_id:
+      example: id
+    name:
+      description: d
+      example: task
+    id:
+      description: d
+      example: 1
+    description:
+      description: d
+      example: Description
+    due_date:
+      description: d
+    done:
+      description: d
+      example: False
+    done_timestamp:
+      description: d
+    items:
+      name:
+        example:1
+      position:
+        example: 1
+      done:
+        example: true
+
+service_update_task:
+  description: d
+  fields:
+    task_list_id:
+      example: id
+    name:
+      description: d
+      example: task
+    id:
+      description: d
+      example: 1
+    description:
+      description: d
+      example: Description
+    due_date:
+      description: d
+    done:
+      description: d
+      example: False
+    done_timestamp:
+      description: d
+    items:
+      name:
+        example: 1
+      position:
+        example: 1
+      done:
+        example: true
+
+service_delete_task:
+  description: d
+  fields:
+    task_list_id:
+      example: id
+    id:
+      description: d
+      example: 1

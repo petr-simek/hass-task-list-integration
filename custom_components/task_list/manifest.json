@@ -1,0 +1,10 @@
+{
+  "domain": "task_list",
+  "name": "Task integration",
+  "documentation": "https://github.com/petr-simek/grocy-task-component",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": [
+    "@petr-simek"
+  ]
+}

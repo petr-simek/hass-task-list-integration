@@ -1,0 +1,39 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Tasks",
+        "description": "Tasks extension",
+        "data": {
+          "name": "Task list name",
+          "user": "Task list for user"
+        }
+      }
+    },
+    "error": {
+      "invalid_name": "Name size is small"
+    },
+    "abort": {
+
+    }
+  },
+  "ui": {
+    "card": {
+      "tasks": {
+        "Overdue": "Overdue",
+        "Today": "Today",
+        "Detail": "Detail",
+        "Due date": "Due date",
+        "Assigned to": "Assigned to",
+        "Category": "Category",
+        "Completed": "Completed",
+        "Undone": "Undone",
+        "No tasks": "No tasks",
+        "Remove": "Remove",
+        "Create": "Create",
+        "Update": "Update",
+        "Name": "Name"
+      }
+    }
+  }
+}
