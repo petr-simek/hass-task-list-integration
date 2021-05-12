@@ -1,8 +1,9 @@
 {
   "domain": "task_list",
   "name": "Task integration",
-  "documentation": "https://github.com/petr-simek/grocy-task-component",
+  "documentation": "https://github.com/petr-simek/hass-task-list-integration",
   "dependencies": [],
+  "version": "1.0.0",
   "config_flow": true,
   "codeowners": [
     "@petr-simek"
